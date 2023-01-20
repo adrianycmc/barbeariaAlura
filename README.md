@@ -2,12 +2,12 @@ Barbearia Alura 🧔
 
 Este projeto teve como objetivo aprender sobre HTML e CSS. 😀
 
-| :placard: Vitrine.Dev |     |
+| Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura**
 | :label: Tecnologias | HTML 5 e CSS 3
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://adrianycmc.github.io/PagHtmlBarbearia/index.html
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/adrianycmc/PagHtmlBarbearia/blob/main/banner.jpg?raw=true)
