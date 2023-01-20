@@ -1,5 +1,7 @@
+## Nome do projeto
 Barbearia Alura 🧔
 
+## Descrição do projeto
 Este projeto teve como objetivo aprender sobre HTML e CSS. 😀
 
 | Vitrine.Dev |     |
